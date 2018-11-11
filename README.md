@@ -6,6 +6,7 @@
 docker inspect --format "{{.RootFS.Layers}}" microsoft/nanoserver
 ## Docker help pages
 ### Good Reads
+https://github.com/veggiemonk/awesome-docker#what-is-docker  
 https://blog.docker.com/2017/11/tips-tricks-docker-captains  
 https://sreeninet.wordpress.com/2017/08/15/docker-features-for-handling-containers-death-and-resurrection/  
 https://medium.com/devopsion/life-and-death-of-a-container-146dfc62f808  
