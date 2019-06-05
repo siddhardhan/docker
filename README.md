@@ -16,3 +16,5 @@ https://medium.com/@gchudnov/trapping-signals-in-docker-containers-7a57fdda7d86
 https://vorcunus.blog/2017/05/31/push-windows-image-layers-to-harbor-registry/  
 ### nsenter
 https://github.com/jpetazzo/nsenter  
+### view host filesystem of docker container
+http://www.vivekjuneja.in/tips/2016/12/02/docker-1.12.3-view-host-fs/
